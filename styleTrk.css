@@ -1,0 +1,60 @@
+ body {
+    background-color:#fff;
+    margin:0px;
+    padding:10px;
+    color:#333;
+    font-size:14px;
+    font-family:verdana, arial, sans-serif;
+    }
+
+
+a {
+    color: #555555;
+
+}
+
+a:link, a:visited, a:hover{
+	color: darkblue;
+	text-decoration: none;
+#        border-bottom: 1px dotted;
+font-weight:normal;
+}
+
+a:hover {
+    color: #555555;
+#	border-bottom: 1px solid;
+}
+/* overrides decoration from previous rule for hovered links */
+
+  .entry .desc {
+    font-size:13px;
+    text-align:right;
+    }
+
+   .entry {
+   tex-align:left;
+   width: 85%;
+   }
+   
+
+
+ .heading {
+    weight: bold;
+font-size:13;
+color:#000;
+
+    }
+
+  .clear {
+    clear:both;
+    }
+
+  .entry .txt {
+    font-size:14px;
+    float:right;
+    width:85%;
+    padding-left:5px;
+    margin-left:5px;
+    border-left:1px solid #999;
+    margin-bottom:20px;
+    } 
